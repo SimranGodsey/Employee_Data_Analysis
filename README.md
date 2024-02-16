@@ -63,4 +63,5 @@ specific location.
 performance, and training costs, using charts and pivot tables
 
 ## Click here for solution :[Here](https://medium.com/p/2a70d6f50f0f)
+## Check the Excel Dashboard :[Here](https://github.com/SimranGodsey/Employee_Data_Analysis/blob/main/Employee_data_Dashboard.xlsx)
 
